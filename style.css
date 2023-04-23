@@ -1,7 +1,14 @@
-hr{
-    color: black;
+html{
+    background-color: rgb(40, 40, 43);
 }
-.king{
-    margin-top: 0;
-    background-color: blue;
+main{
+    background-color: rgb(40, 40, 43);
+}
+div{
+    background-color: rgb(40, 40, 43);
+    padding:20px;
+            margin:0px;
+}
+div{
+    background-color: rgb(40, 40, 43);
 }
