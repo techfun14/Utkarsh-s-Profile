@@ -1,5 +1,6 @@
 html{
-    background-color: rgb(40, 40, 43);
+    background-image: -moz-linear-gradient(5);
+    background-color: rgb(23, 23, 26);
 }
 main{
     background-color: rgb(40, 40, 43);
@@ -11,4 +12,18 @@ div{
 }
 div{
     background-color: rgb(40, 40, 43);
+}
+* {
+    box-sizing: border-box;
+  }
+header{
+background-color:rgb(23, 23, 26);
+  padding: -20px;
+  text-align:left;
+  font-size: 35px;
+  color: white;
+  
+}
+table td th{
+    text-align: center;
 }
